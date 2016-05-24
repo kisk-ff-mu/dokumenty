@@ -111,8 +111,13 @@ Pišme přiměřeně dlouhé věty! Jak docílíme optima? Když si text přečt
 
 ### 3.5 Záměna předložek DÍKY a KVŮLI
 
-- díky = pozitivum významu: Mobilní síť se rozrostla a ***díky*** ~~kvůli~~ tomu jsme letos vybrali na charitativní akci dvakrát více než vloni.
-- kvůli = negativum významu: ***Kvůli*** ~~Díky~~ zemětřesení přišly tisíce lidí o život.
+díky = pozitivum významu
+
+> Mobilní síť se rozrostla a ***díky*** ~~kvůli~~ tomu jsme letos vybrali na charitativní akci dvakrát více než vloni.
+
+kvůli = negativum významu
+
+> ***Kvůli*** ~~Díky~~ zemětřesení přišly tisíce lidí o život.
 
 
 ### 3.6 „Patvary“ nebo neologismy
