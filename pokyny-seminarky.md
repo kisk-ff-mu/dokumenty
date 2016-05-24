@@ -22,15 +22,15 @@
 	- **řádkování 1,5**
 
 - standardní struktura: 
-- **titulní list** (nestránkuje se) 
-- **abstrakt práce** (obsahuje výzkumnou otázku, o čem text je, hlavní zjištění)
-- **obsah s označením stránek** (stránkuje se uprostřed stránky dole) 
-- **úvod**
-- **vlastní text** (zpravidla členěný na kapitoly, nejlépe desetinnými čísly) 
-- **závěr**
-- **použitá literatura** 
-- **přílohy** (je-li jich víc než jedna, pak je nutno je číslovat) 
-- **seznam zkratek** (je-li nezbytný) 
+	- **titulní list** (nestránkuje se) 
+	- **abstrakt práce** (obsahuje výzkumnou otázku, o čem text je, hlavní zjištění)
+	- **obsah s označením stránek** (stránkuje se uprostřed stránky dole) 
+	- **úvod**
+	- **vlastní text** (zpravidla členěný na kapitoly, nejlépe desetinnými čísly) 
+	- **závěr**
+	- **použitá literatura** 
+	- **přílohy** (je-li jich víc než jedna, pak je nutno je číslovat) 
+	- **seznam zkratek** (je-li nezbytný) 
 
 ## Konzultace
 
