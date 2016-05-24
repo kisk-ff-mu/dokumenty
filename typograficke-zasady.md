@@ -68,8 +68,8 @@
 
 ## Závorky
 
-- Vnořené kulaté – podle vzoru **Bla (bla (bla) bla bla) bla**.
-- Hranaté – pro přehlednost do kulatých závorek **([])**
+- Vnořené kulaté – podle vzoru *Bla (bla (bla) bla bla) bla*.
+- Hranaté – pro přehlednost do kulatých závorek *([])*
 
 Podrobnější informace k jazykové i typografické stránce odborných textů:
 [http://www.ujc.cas.cz/jazykova-poradna](http://www.ujc.cas.cz/jazykova-poradna)
